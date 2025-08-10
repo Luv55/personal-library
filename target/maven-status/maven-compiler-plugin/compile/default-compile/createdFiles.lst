@@ -1,1 +1,5 @@
 com/library/Main.class
+com/library/domain/enums/ReadingStatus.class
+com/library/domain/BookTest.class
+com/library/domain/enums/Genre.class
+com/library/domain/Book.class
